@@ -50,9 +50,11 @@ LED 2 – GPIO 6(출력용)
 3.1 초기 건강 상태 측정
 
 <img width="209" alt="image" src="https://github.com/Hjwoon/SmartSystem_raspy/assets/100463930/3468085e-3b61-4400-a5df-d4924e4884af">
+
 측정 후 이상 없을 시, 실내 온도 측정 단계로 넘어가는 모습
 
 <img width="214" alt="image" src="https://github.com/Hjwoon/SmartSystem_raspy/assets/100463930/93430910-c287-4dd9-80b8-47e7dd56b3b4">
+
 이상 감지, 웹 서버 접속
 
 <img width="149" alt="image" src="https://github.com/Hjwoon/SmartSystem_raspy/assets/100463930/0007eb28-d801-447a-9913-94ba043cd22e">
