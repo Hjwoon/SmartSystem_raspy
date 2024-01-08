@@ -48,15 +48,20 @@ LED 2 – GPIO 6(출력용)
 
 #### 3. 실행과정 및 결과
 3.1 초기 건강 상태 측정
+
 <img width="209" alt="image" src="https://github.com/Hjwoon/SmartSystem_raspy/assets/100463930/3468085e-3b61-4400-a5df-d4924e4884af">
 측정 후 이상 없을 시, 실내 온도 측정 단계로 넘어가는 모습
+
 <img width="214" alt="image" src="https://github.com/Hjwoon/SmartSystem_raspy/assets/100463930/93430910-c287-4dd9-80b8-47e7dd56b3b4">
 이상 감지, 웹 서버 접속
+
 <img width="149" alt="image" src="https://github.com/Hjwoon/SmartSystem_raspy/assets/100463930/0007eb28-d801-447a-9913-94ba043cd22e">
 
 3.2 어두울 때LED 2개 모두 ON, 실내에서는 1개만 ON(밝은 실내 점점 어두워짐, 어두운 실내 점점 LED 밝아짐)
+
 <img width="192" alt="image" src="https://github.com/Hjwoon/SmartSystem_raspy/assets/100463930/f9a33775-a318-46f7-939c-e8dccb6aa29b">
 
 3.3
 웹 브라우저에 접속한 후, 카메라에 연결했을 때
+
 <img width="245" alt="image" src="https://github.com/Hjwoon/SmartSystem_raspy/assets/100463930/9b518e70-2aaa-4128-be01-0cd3ed8d55d1">
